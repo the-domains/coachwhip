@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[coachwhip]]></title>
-        <description><![CDATA[coachwhip]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Coachwhip Publications]]></title>
+        <description><![CDATA[Coachwhip Publications]]></description>
+        <link>https://thegrid.ai/coachwhip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 18:17:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 18:25:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coachwhip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a56d139-5975-48f7-8b90-7706daec8c79.jpg">]]></description>
+            <link>https://thegrid.ai/coachwhip/6cf16144-1de3-4012-9060-4844b905db2b/index.html</link>
+            <guid isPermaLink="false">6cf16144-1de3-4012-9060-4844b905db2b</guid>
+            <pubDate>Tue, 22 Dec 2015 18:25:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[John Martin Leahy]]></title>
-            <description><![CDATA[<article><h1>John Martin Leahy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba3e9570-0cd1-48e9-b691-9146e63950a8.jpg"></article>]]></description>
-            <link>undefinedjohn-martin-leahy/index.html</link>
+            <description><![CDATA[<article><h1>John Martin Leahy</h1><p>Lost Race fantasies, strange creatures, hidden worlds</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a1cace8158f3357a1adf9e0b6100ad04ca755c1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/coachwhip/john-martin-leahy/index.html</link>
             <guid isPermaLink="false">ed24a4bb-9d0f-40f1-af6f-645adae23c44</guid>
             <pubDate>Tue, 22 Dec 2015 18:17:53 GMT</pubDate>
         </item>
