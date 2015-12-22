@@ -1,0 +1,28 @@
+name: coachwhip
+favicon: null
+layout_spectrum: 0.5542622162029147
+typography_spectrum: 0.044793969951570034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5025584730319679
+  lightness: 0.07607715902850032
+  saturation: 0.07703379821032286
+  rhythmicContrast: 0.5240224015433341
+purpose: []
