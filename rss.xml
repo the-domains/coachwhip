@@ -4,7 +4,7 @@
         <description><![CDATA[Coachwhip Publications]]></description>
         <link>https://thegrid.ai/coachwhip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 03:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 03:41:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coachwhip/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,17 +29,17 @@
         </item>
         <item>
             <title><![CDATA[Katzenjammer]]></title>
-            <description><![CDATA[<article><h1>Katzenjammer</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dc7a202055c6f11557712aeca7c110f578e273c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Katzenjammer</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/877cbca2ce57730f11a9a9c9db70f5a443fc6153.jpg"></article>]]></description>
             <link>https://thegrid.ai/coachwhip/a610275e-bb47-4bec-8923-88711ae03128/index.html</link>
             <guid isPermaLink="false">a610275e-bb47-4bec-8923-88711ae03128</guid>
             <pubDate>Wed, 23 Dec 2015 03:12:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b58b548-0c23-4c7e-af0c-b4087571a2b7.jpg">]]></description>
+            <title><![CDATA[Ellery Queen, Detective]]></title>
+            <description><![CDATA[<article><h1>Ellery Queen, Detective</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b4f6b0c2712f55bb3ab2fee47facd77637e7458.jpg"></article>]]></description>
             <link>https://thegrid.ai/coachwhip/29817375-22c0-4049-b268-dcfc1bafc575/index.html</link>
             <guid isPermaLink="false">29817375-22c0-4049-b268-dcfc1bafc575</guid>
-            <pubDate>Wed, 23 Dec 2015 03:12:26 GMT</pubDate>
+            <pubDate>Wed, 23 Dec 2015 03:41:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
