@@ -1,6 +1,6 @@
 name: coachwhip
 favicon: null
-layout_spectrum: 0.81844
+layout_spectrum: 0.70287
 typography_spectrum: 0.73604
 title: Coachwhip Publications
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
     - '#010006'
-    - '#fefefe'
-    - '#3f3f42'
-    - '#fffffd'
-  brandStrength: 0.1875
-  lightness: 0.625
+    - '#ffffff'
+    - '#403f43'
+    - '#c50026'
+    - '#e07f93'
+  brandStrength: 0.375
+  lightness: 0.5
   saturation: 0.625
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
