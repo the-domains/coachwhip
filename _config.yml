@@ -1,6 +1,6 @@
 name: coachwhip
 favicon: null
-layout_spectrum: 0.66173
+layout_spectrum: 0.78513
 typography_spectrum: 0.73604
 title: Coachwhip Publications
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.3125
   saturation: 0.1875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
