@@ -4,8 +4,15 @@
         <description><![CDATA[Coachwhip Publications]]></description>
         <link>https://thegrid.ai/coachwhip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 00:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 05:17:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coachwhip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b315bba8-5fb7-499f-a788-189bc48c962d.jpg" alt="Orin McMonigle: Assassin Bugs, Waterscorpions, and Other Hemiptera" title="">]]></description>
+            <link>https://thegrid.ai/coachwhip/491d6bdf-2ec0-4599-87fe-89086d94deea/index.html</link>
+            <guid isPermaLink="false">491d6bdf-2ec0-4599-87fe-89086d94deea</guid>
+            <pubDate>Sat, 26 Dec 2015 05:16:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf4031ac-704d-4e7f-bf48-b564c5299447.jpg" alt="Secret Wells: The Speculative Fiction of A. C. Benson" title="">]]></description>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Mysteries]]></title>
-            <description><![CDATA[<article><h1>Mysteries</h1><p>Crime and Mystery</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13d2e0c3-7220-40da-8261-5776ea14f0ee.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Mysteries</h1><p>Mysteries: Golden-Age Classics</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13d2e0c3-7220-40da-8261-5776ea14f0ee.jpg"></article>]]></description>
             <link>https://thegrid.ai/coachwhip/mysteries/index.html</link>
             <guid isPermaLink="false">1978be50-f064-4afe-9db3-504f5940a712</guid>
             <pubDate>Thu, 24 Dec 2015 21:20:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coachwhip/a610275e-bb47-4bec-8923-88711ae03128/index.html</link>
             <guid isPermaLink="false">a610275e-bb47-4bec-8923-88711ae03128</guid>
             <pubDate>Thu, 24 Dec 2015 21:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ellery Queen, Detective]]></title>
-            <description><![CDATA[<article><h1>Ellery Queen, Detective</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/473ea4f000dd3de462278da2eedc2a6f7dcf4918.jpg"></article>]]></description>
-            <link>https://thegrid.ai/coachwhip/29817375-22c0-4049-b268-dcfc1bafc575/index.html</link>
-            <guid isPermaLink="false">29817375-22c0-4049-b268-dcfc1bafc575</guid>
-            <pubDate>Thu, 24 Dec 2015 21:29:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
