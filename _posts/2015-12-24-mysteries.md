@@ -1,26 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Crime and Mystery
-datePublished: '2015-12-24T21:20:13.579Z'
-dateModified: '2015-12-24T21:19:59.024Z'
+datePublished: '2015-12-26T16:09:09.852Z'
+dateModified: '2015-12-26T16:08:52.573Z'
 title: Mysteries
 author: []
+sourcePath: _posts/2015-12-24-mysteries.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-24-mysteries.md
-published: true
 url: mysteries/index.html
-_type: Article
+_type: WebPage
 
 ---
 Mysteries: Golden-Age Classics
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13d2e0c3-7220-40da-8261-5776ea14f0ee.jpg)
